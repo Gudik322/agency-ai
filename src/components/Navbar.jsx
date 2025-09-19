@@ -29,7 +29,7 @@ export const Navbar = ({ theme, setTheme }) => {
         <a onClick={()=>setSidebarOpen(false)} href="#services" className="sm:hover:border-b">
           Services
         </a>
-        <a onClick={()=>setSidebarOpen(false)} href="#services" className="sm:hover:border-b">
+        <a onClick={()=>setSidebarOpen(false)} href="#our-work" className="sm:hover:border-b">
           Our Work
         </a>
         <a onClick={()=>setSidebarOpen(false)} href="#contact-us" className="sm:hover:border-b">
